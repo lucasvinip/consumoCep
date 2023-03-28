@@ -1,7 +1,4 @@
 # CONSUMO DA API VIACEP
-
-![](../screenshot/viacep.gif)
-
 ---
 
 ## Sobre o projeto
